@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?>
+
+<pydev_project>
+<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+<path>/coursebuilder</path>
+</pydev_pathproperty>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 2.7</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Python 2.7</pydev_property>
+<pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
+<path>C:\applications\appengine\google</path>
+<path>C:\applications\appengine\lib\webapp2</path>
+<path>C:\applications\appengine\lib\webob_1_1_1</path>
+<path>C:\applications\appengine\lib\django_0_96</path>
+<path>C:\applications\appengine\lib\yaml\lib</path>
+<path>C:\applications\appengine\lib\jinja2</path>
+<path>C:\applications\appengine\google\appengine\api</path>
+</pydev_pathproperty>
+</pydev_project>
