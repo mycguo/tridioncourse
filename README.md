@@ -1,0 +1,4 @@
+tridioncourse
+=============
+
+Tridion Training Course
